@@ -1,11 +1,9 @@
 # Online hospital management system
-	Information Technology Project IT2080
-            Project Proposal
-                2021
-        itp2021_s1_01_G14
 
 Sri Lanka Institute of Information Technology
 
+    Information Technology Project
+    
 Submitted by:
 
 1.	 M.A.F ahamed
